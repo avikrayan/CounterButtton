@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avik/Development/CounterButtton/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_minus.png",
+        "source": "/home/avik/Development/CounterButtton/app/build/generated/res/pngs/debug/drawable-ldpi/ic_minus.png"
+    },
+    {
+        "merged": "/home/avik/Development/CounterButtton/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_add.png",
+        "source": "/home/avik/Development/CounterButtton/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add.png"
+    }
+]

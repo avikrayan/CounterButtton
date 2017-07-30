@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.avik.counterbuttton.MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="23dp"
+        android:layout_marginLeft="23dp"
+        android:layout_centerInParent="true">
+        <Button
+            android:id="@+id/btnMinus"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="@drawable/ic_minus"/>
+        <android.support.v4.widget.Space
+            android:layout_width="25dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/tvShowCount"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="0"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textColor="#000" />
+        <android.support.v4.widget.Space
+            android:layout_width="25dp"
+            android:layout_height="match_parent" />
+        <Button
+            android:id="@+id/btnPlus"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:background="@drawable/ic_add"/>
+    </LinearLayout>
+
+</RelativeLayout>

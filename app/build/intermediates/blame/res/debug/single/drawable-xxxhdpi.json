@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avik/Development/CounterButtton/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add.png",
+        "source": "/home/avik/Development/CounterButtton/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/avik/Development/CounterButtton/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_minus.png",
+        "source": "/home/avik/Development/CounterButtton/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_minus.png"
+    }
+]

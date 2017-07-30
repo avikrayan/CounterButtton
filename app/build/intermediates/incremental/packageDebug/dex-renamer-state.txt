@@ -1,0 +1,7 @@
+#Thu Jul 27 18:09:02 IST 2017
+base.0=/home/avik/Development/CounterButtton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_40e9d0b8c278c466c75b2bf653e0565c6918655e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/avik/Development/CounterButtton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_359f188ae4131e3600acc65f44e652cfbcf22784/classes.dex
+base.1=/home/avik/Development/CounterButtton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_359f188ae4131e3600acc65f44e652cfbcf22784
+file.0=/home/avik/Development/CounterButtton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_40e9d0b8c278c466c75b2bf653e0565c6918655e/classes.dex
